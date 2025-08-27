@@ -16,4 +16,4 @@ zgsm/review-manager:1.0.48
 zgsm/credit-manager:v1.1.2
 zgsm/quota-manager:1.0.3
 zgsm/chat-server:1.2.0
-semitechnologies/weaviate:1.30.0
+semitechnologies/weaviate:1.30.17-19cd1c5.amd64
